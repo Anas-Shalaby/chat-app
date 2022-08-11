@@ -159,7 +159,6 @@ button:disabled {
   }
   .chat__sidebar {
     width: 100px;
-    height: 101vh;
   }
   html {
     font-size: 1rem;
